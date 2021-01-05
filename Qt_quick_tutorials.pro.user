@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorProject>
-<!-- Written by QtCreator 4.14.0, 2021-01-01T12:48:29. -->
+<!-- Written by QtCreator 4.14.0, 2021-01-04T20:15:06. -->
 <qtcreator>
  <data>
   <variable>EnvironmentId</variable>
@@ -91,7 +91,7 @@
    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">{0a7a5046-f3e0-40ef-b6dd-586b8845bbdf}</value>
    <value type="int" key="ProjectExplorer.Target.ActiveBuildConfiguration">0</value>
    <value type="int" key="ProjectExplorer.Target.ActiveDeployConfiguration">0</value>
-   <value type="int" key="ProjectExplorer.Target.ActiveRunConfiguration">4</value>
+   <value type="int" key="ProjectExplorer.Target.ActiveRunConfiguration">1</value>
    <valuemap type="QVariantMap" key="ProjectExplorer.Target.BuildConfiguration.0">
     <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory">/home/sas/QT_projects/QT_quick/build-Qt_quick_tutorials-Android_Qt_5_15_2_Clang_Multi_Abi-Debug</value>
     <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory.shadowDir">/home/sas/QT_projects/QT_quick/build-Qt_quick_tutorials-Android_Qt_5_15_2_Clang_Multi_Abi-Debug</value>
@@ -263,7 +263,7 @@
     <valuemap type="QVariantMap" key="ProjectExplorer.BuildConfiguration.BuildStepList.0">
      <valuemap type="QVariantMap" key="ProjectExplorer.BuildStepList.Step.0">
       <value type="bool" key="ProjectExplorer.BuildStep.Enabled">true</value>
-      <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">&lt;b&gt;Deploy to Android device&lt;/b&gt;</value>
+      <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">&lt;b&gt;&lt;b&gt;Deploy to Android device&lt;/b&gt;&lt;/b&gt;</value>
       <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.AndroidDeployQtStep</value>
       <value type="bool" key="UninstallPreviousPackage">true</value>
      </valuemap>

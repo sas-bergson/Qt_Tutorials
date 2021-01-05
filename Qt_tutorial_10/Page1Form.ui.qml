@@ -48,7 +48,7 @@ Page {
         }
 
         Column {
-            id: question_content
+            id: items
             width: parent.width
             height: parent.height * 0.8
             spacing: 5
