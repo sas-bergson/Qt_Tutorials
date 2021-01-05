@@ -1,7 +1,0 @@
-<RCC>
-    <qresource prefix="/">
-        <file>main.qml</file>
-        <file>DatePicker.qml</file>
-        <file>YearGrid.qml</file>
-    </qresource>
-</RCC>
